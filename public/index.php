@@ -17,6 +17,6 @@ $num2 = 30;
     <p><?= $mensagem ?></p>
     <h1>Jesus save !!!!</h1>
     <?= $num1 + $num2 ?>
-    <?= $num1 . $num2 ?>
+    <?= $num1 . $num2 ?> 
 </body>
 </html>
