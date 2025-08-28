@@ -45,7 +45,7 @@ if($_SERVER[ 'REQUEST_METHOD'] == 'POST'){
             <option value = "T">Tarde</option>
             <option value = "N">Noite</option>
         </select>
-        <button type="submit">Enviar</button>
+        <button type="submit">Enviar</button> 
         
     </form>
     
