@@ -11,7 +11,7 @@ $num2 = 30;
     <meta charset="UTF-8">
     <link href="/css/default.css" rel="stylesheet" />
     <title>Document</title>
-</head>
+</head>  
 <body>
     <h1>PHP & Mysql</h1>
     <p><?= $mensagem ?></p>
