@@ -2,7 +2,7 @@
 $numA = 1;
 $numB = 1;
 
-// Usaando vetor  0  1
+// Usando vetor  0  1
 $sequencia = [1, 1];
 for($cont = 2; $cont < 10; $cont++){
     $sequencia[$cont] = $sequencia[$cont - 1] + $sequencia[$cont - 2];
